@@ -1,0 +1,17 @@
+{
+  "name": "hacker-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Ivan Zakharchanka",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "isomorphic-fetch": "^2.2.1",
+    "nodemon": "^1.11.0"
+  }
+}
